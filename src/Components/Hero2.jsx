@@ -7,8 +7,8 @@ const Hero2 = () => {
         <div className=' bg-white pt-3 col-lg-10 mx-auto pb-lg-5 px-3 '>
             <div >
                 <div className='text-center fw-medium '>
-                    <span className=' fs-4'>Empower your business </span>
-                    <p className=' fs-4'>with edge cutting <span style={{ color: "#28D08A" }}>solution</span></p>
+                    <span className=' fs-4 fw-medium'>Empower your business </span>
+                    <p className=' fs-4 fw-medium'>with edge cutting <span style={{ color: "#28D08A" }}>solution</span></p>
 
                 </div>
             </div>
@@ -37,7 +37,7 @@ const Hero2 = () => {
             </div>
             <hr className="my-3 border border-1 border-dark  mx-auto" />
             <div className=' d-lg-flex pt-3 col-lg-11 mx-auto'>
-                <div className='col-lg-7  text-center'>
+                <div className='col-lg-7  text-center pb-3'>
                     <img
                         className='img-fluid w-100'
                         style={{ maxWidth: "500px", height: "auto", borderRadius: "20px" }}

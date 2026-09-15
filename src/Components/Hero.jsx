@@ -10,14 +10,14 @@ const Hero = () => {
                 <div className="w-100   mb-4">
                     <div className="mx-auto ">
                         <div >
-                            <h3 className=" col-11  col-lg-4 mb-lg-4 fw-medium text-center text-lg-start ">Secure <span style={{ color: "#28D08A " }}>business</span> with Techty security</h3>
+                            <h3 className=" col-11  col-lg-4 mb-lg-4 fw-bold text-center text-lg-start ">Secure <span style={{ color: "#28D08A " }}>business</span> with Techty security</h3>
                             <p className="mb-lg-4 col-lg-10" style={{ fontSize: "15px", width: "px" }}>
                                 we have consider our solution to support every stage of your growth. We are the fatsest and easiest way to launch an attractive and feature-compleet SaaS showcase
                             </p>
                         </div>
                         <div className="d-flex justify-content-between flex-wrap col-lg-8   ">
                             <button className=" border rounded-2 fw-medium fs-6" style={{ background: "#28D08A ", color: "white" }}>Request A Free Demo</button>
-                            <button className=" border rounded-2 fw-medium fs-6" >Hire An Expert</button>
+                            <button className=" border rounded-2 fw-medium text-black fs-6" >Hire An Expert</button>
 
                         </div>
                     </div>

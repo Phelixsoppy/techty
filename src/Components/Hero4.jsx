@@ -21,7 +21,7 @@ const Hero4 = () => {
 
     return (
         <div>
-            <div className=' bg-white col-lg-10 mx-auto px-3 py-4'>
+            <div className=' bg-white col-lg-10 mx-auto px-4 py-4'>
                 <div className=' d-lg-flex col-lg-11 mx-auto'>
                     <div className='col-lg-6'>
                         <img className=' w-100 img-fluid h-auto rounded-4 ' style={{ maxWidth: '400px' }} src={hero4} alt="" />
@@ -39,9 +39,9 @@ const Hero4 = () => {
             <div className=''>
                 <img className='w-100 h-100 img-fluid' style={{}} src={ss}></img>
             </div>
-            <div className='col-lg-10 mx-auto '>
+            <div className='col-lg-10 mx-auto pb-3 '>
                 <div>
-                    <p className='text-center fs-4 fw-medium py-4'>Read what the <span style={{ color: "#28D08A " }}>customers</span>are saying about us</p>
+                    <p className='text-center fs-4 fw-bold py-4'>Read what the <span style={{ color: "#28D08A " }}>customers</span>are saying about us</p>
                 </div>
                 <div className='row g-3 col-lg-8 mx-auto'>
                     {

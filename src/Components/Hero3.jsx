@@ -7,7 +7,7 @@ const Hero3 = () => {
         <div className='pb-4 px-3 ' style={{ background: "#F2F5F8" }}>
             <div className='col-lg-10 mx-auto'>
                 <div>
-                    <p className='text-center pb-4 fw-medium fs-3 pt-4'><span style={{ color: "#28D08A" }}>Unleash</span> business's full potential</p>
+                    <p className='text-center pb-4 fw-bold fs-3 pt-4'><span style={{ color: "#28D08A" }}>Unleash</span> business's full potential</p>
                 </div>
                 <div className='row g-4'>
                     <div className='col-lg-4 '>
