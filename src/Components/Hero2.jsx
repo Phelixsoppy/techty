@@ -4,7 +4,7 @@ import check from "../images/check.svg"
 
 const Hero2 = () => {
     return (
-        <div className=' bg-white pt-3 col-lg-10 mx-auto pb-lg-5 px-2 '>
+        <div className=' bg-white pt-3 col-lg-10 mx-auto pb-lg-5 px-3 '>
             <div >
                 <div className='text-center fw-medium '>
                     <span className=' fs-4'>Empower your business </span>

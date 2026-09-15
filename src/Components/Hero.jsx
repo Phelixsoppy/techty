@@ -5,7 +5,7 @@ import star from "../images/star.svg"
 import star1 from "../images/star1.svg"
 const Hero = () => {
     return (
-        <div style={{ background: "#F2F5F8", paddingBottom: "40px" }} className="px-2 pt-5">
+        <div style={{ background: "#F2F5F8", paddingBottom: "40px" }} className="px-3 pt-5">
             <div className="d-lg-flex d-md-flex col-lg-10 pt-4 pt-lg-5 col-12 mx-auto  pb-2"  >
                 <div className="w-100   mb-4">
                     <div className="mx-auto ">
